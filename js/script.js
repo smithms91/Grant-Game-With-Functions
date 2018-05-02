@@ -67,5 +67,7 @@
   function randNum(dmg) {
     return Math.floor(Math.random() * dmg + 1);
   }
+
+  startGame();
 }
 
